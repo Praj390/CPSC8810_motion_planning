@@ -42,16 +42,16 @@ traced by the agents was curved and the motion was not smooth. At very high valu
 get confused and interrupt their respective path, decreasing the smoothness of the motion.
 
 
-# 3 agents
-![] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/3_agent.gif)
+### 3 agents
+![ ] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/3_agent.gif)
 
-# 8 agents
+## 8 agents
 
-![] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/8_agent.gif)
+![ ] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/8_agent.gif)
 
-# crossing agents
+### crossing agents
 
-![] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/crossing_agent.gif)
+![ ] (https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/crossing_agent.gif)
 
 
 	
