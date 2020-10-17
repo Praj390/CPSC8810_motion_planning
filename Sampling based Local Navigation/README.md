@@ -43,7 +43,7 @@ get confused and interrupt their respective path, decreasing the smoothness of t
 
 
 # 3 agents
-![] https://github.com/Praj390/CPSC8810_motion_planning/blob/master/Sampling%20based%20Local%20Navigation/3_agent.gif
+![] 3_agent.gif
 
 # 8 agents
 
