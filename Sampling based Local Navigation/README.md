@@ -43,7 +43,7 @@ get confused and interrupt their respective path, decreasing the smoothness of t
 
 
 # 3 agents
-![] 3_agent.gif
+![] (3_agent.gif)
 
 # 8 agents
 
